@@ -16,10 +16,12 @@ The project is structured using the CRISP-DM framework. Details about the framew
 
 
 ### Project Name
-> ⚠️ **Deliverable - 08.10.2026:** Define a project name and write a short pitch.
+> ⚠️ **Deliverable - 08.10.2026:** Define a project name.
 
+### Pitch
+> ⚠️ **Deliverable - 08.10.2026:** Write a short pitch.
+> 
 *Write a four-sentence pitch using [this](https://www.linkedin.com/posts/maabrahams_how-to-make-a-compelling-quick-pitch-activity-7179128237782970369-Qa6o/) guideline.*
-
 ---
 
 
