@@ -102,7 +102,7 @@ The entire set of visualizations can be found in `figures/eda`.
 > ⚠️ **Deliverable - 26.11.2026:** Summarize the data modeling approach.
 
 ## Concept
-*Describe the data modeling approach in a few sentences. Which major tasks have to be performed? Which types of models are used (why)? What are the results?*
+*Describe the data modeling approach in a few sentences. Which major tasks have to be performed? Which types of models are used (why)? What are the results? The goal of DSPRO1 is not to implement complex ML algorithms but to tell a coherent data story. A dashboard visualisation or a classical statistical analysis cab be sufficient in terms of data modeling.*
 
 ## Implementation
 *Make a reference to the notebook and scripts used for performing the data modeling. Sketch a diagram that contains all major tasks and notes for the corresponding implementation.*
