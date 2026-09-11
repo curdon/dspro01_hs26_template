@@ -111,7 +111,7 @@ The entire set of visualizations can be found in `figures/eda`.
 - Reusable, modular code is outsourced to separate `.py` files: [src/data_modeling.py](src/data_modeling.py)
 
 
-# 5. Results and Discussion
+# 5. Evaluation
 
 > ⚠️ **Deliverable - 03.12.2026:** Discuss your results in the light of the project goals.
 
