@@ -4,7 +4,7 @@
 
 ## Project Details
 
-> ⚠️ **Deliverable - 01.10.2026:** Add the names of all team members and their non-binding tasks. Invite all coaches to your repositories.
+> ⚠️ **Deliverable - 24.09.2026:** Add the names of all team members and their non-binding tasks. Invite all coaches to your repositories.
 
 ### Team Members
 
@@ -17,11 +17,11 @@
 
 ### Project Name
 
-> ⚠️ **Deliverable - 08.10.2026:** Define a project name.
+> ⚠️ **Deliverable - 15.10.2026:** Define a project name.
 
 ### Pitch
 
-> ⚠️ **Deliverable - 08.10.2026:** Write a short pitch.
+> ⚠️ **Deliverable - 15.10.2026:** Write a short pitch.
 
 *Write a 3 to 5 sentence pitch using [this](https://www.linkedin.com/posts/maabrahams_how-to-make-a-compelling-quick-pitch-activity-7179128237782970369-Qa6o/) as a guideline.*
 
@@ -31,13 +31,13 @@
 
 ## Problem Statement
 
-> ⚠️ **Deliverable - 15.10.2026:** Write a short problem statement.
+> ⚠️ **Deliverable - 22.10.2026:** Write a short problem statement.
 
 *Describe the problem that should be solved in two sentences.*
 
 ## Goals
 
-> ⚠️ **Deliverable - 15.10.2026:** Formulate goals for you project.
+> ⚠️ **Deliverable - 22.10.2026:** Formulate goals for you project.
 
 *Which goals are you aiming for? Define 2 to 4 goals. Goals should follow the [SMART](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) definition, with a focus on measurability.*
 
@@ -47,7 +47,7 @@
 
 ## Data Sources
 
-> ⚠️ **Deliverable - 29.10.2026:** Define data sources.
+> ⚠️ **Deliverable - 12.11.2026:** Define data sources.
 
 *You are free to choose any data source. As a starting point you might consider [Kaggle](https://www.kaggle.com/datasets) or Swiss open data platforms (e.g. Open Government Data [Zurich](https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data.html), [Luzern](https://www.stadtluzern.ch/opengovernmentdata), or [Switzerland](https://opendata.swiss/de)) as potential data sources.*
 
@@ -59,7 +59,7 @@
 
 ## Exploratory Data Analysis
 
-> ⚠️ **Deliverable - 29.10.2026:** Conduct an exploratory data analysis.
+> ⚠️ **Deliverable - 12.11.2026:** Conduct an exploratory data analysis.
 
 *A hands-on definition of EDA can be found [here](https://www.geeksforgeeks.org/data-analysis/what-is-exploratory-data-analysis/). The implementation of the EDA should be contained in a dedicated notebook.*
 
@@ -99,7 +99,7 @@ The entire set of visualizations can be found in `figures/eda`.
 
 # 4. Data Modeling
 
-> ⚠️ **Deliverable - 26.11.2026:** Summarize the data modeling approach.
+> ⚠️ **Deliverable - 03.12.2026:** Summarize the data modeling approach.
 
 ## Concept
 *Describe the data modeling approach in a few sentences. Which major tasks have to be performed? Which types of models are used (why)? What are the results? The goal of DSPRO1 is not to implement complex ML algorithms but to tell a coherent data story. A dashboard visualisation or a classical statistical analysis cab be sufficient in terms of data modeling.*
@@ -113,7 +113,7 @@ The entire set of visualizations can be found in `figures/eda`.
 
 # 5. Evaluation
 
-> ⚠️ **Deliverable - 03.12.2026:** Discuss your results in the light of the project goals.
+> ⚠️ **Deliverable - 10.12.2026:** Discuss your results in the light of the project goals.
 
 - Notebook to run the evaluation: [04_evaluation.ipynb](notebooks/04_evaluation.ipynb)
 
@@ -133,6 +133,6 @@ The entire set of visualizations can be found in `figures/eda`.
 
 # 6. Sustainable Development Goals
 
-> ⚠️ **Deliverable - 10.12.2026:** Describe your results in the light of sustainability.
+> ⚠️ **Deliverable - 17.12.2026:** Describe your results in the light of sustainability.
 
 *The United Nations distinguishes 17 Sustainable Development Goals ([link](https://sdgs.un.org/goals)). Put the results of your project in relation to at least one of these goals. A four-sentence description is sufficient.*
